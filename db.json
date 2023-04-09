@@ -1,0 +1,308 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Bear",
+      "displayName": "Bear",
+      "password": "Bear123",
+      "score": 19,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940403.png"
+    },
+    {
+      "id": 2,
+      "username": "Cat",
+      "displayName": "Cat",
+      "password": "Cat123",
+      "score": 45,
+      "image": "https://cdn-icons-png.flaticon.com/512/4322/4322991.png"
+    },
+    {
+      "id": 3,
+      "username": "Bunny",
+      "displayName": "Bunny",
+      "password": "Bunny123",
+      "score": 36,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940417.png"
+    },
+    {
+      "id": 4,
+      "username": "Panda",
+      "displayName": "Panda",
+      "password": "Panda123",
+      "score": 29,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940446.png"
+    },
+    {
+      "id": 5,
+      "username": "Dog",
+      "displayName": "Dog",
+      "password": "Dog123",
+      "score": 27,
+      "image": "https://cdn-icons-png.flaticon.com/512/4322/4322992.png"
+    },
+    {
+      "id": 6,
+      "username": "Koala",
+      "displayName": "Koala",
+      "password": "Koala123",
+      "score": 59,
+      "image": "https://cdn-icons-png.flaticon.com/512/1326/1326382.png"
+    },
+    {
+      "id": 7,
+      "username": "Sloth",
+      "displayName": "Sloth",
+      "password": "Sloth123",
+      "score": 87,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940405.png"
+    },
+    {
+      "id": 8,
+      "username": "Snake",
+      "displayName": "Snake",
+      "password": "Snake123",
+      "score": 10,
+      "image": "https://cdn-icons-png.flaticon.com/512/1326/1326393.png"
+    },
+    {
+      "id": 9,
+      "username": "Llama ",
+      "displayName": "Llama ",
+      "password": "Llama 123",
+      "score": 45,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940412.png"
+    },
+    {
+      "id": 10,
+      "username": "Penguin",
+      "displayName": "Penguin",
+      "password": "Penguin123",
+      "score": 40,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940401.png"
+    },
+    {
+      "id": 11,
+      "username": "Cow",
+      "displayName": "Cow",
+      "password": "Cow123",
+      "score": 21,
+      "image": "https://cdn-icons-png.flaticon.com/512/2523/2523618.png"
+    },
+    {
+      "id": 12,
+      "username": "Wolf",
+      "displayName": "Wolf",
+      "password": "Wolf123",
+      "score": 64,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775537.png"
+    },
+    {
+      "id": 13,
+      "username": "Lion",
+      "displayName": "Lion",
+      "password": "Lion123",
+      "score": 42,
+      "image": "https://cdn-icons-png.flaticon.com/512/1760/1760998.png"
+    },
+    {
+      "id": 14,
+      "username": "Bullfinch",
+      "displayName": "Bullfinch",
+      "password": "Bullfinch123",
+      "score": 42,
+      "image": "https://cdn-icons-png.flaticon.com/512/3500/3500570.png"
+    },
+    {
+      "id": 15,
+      "username": "Kangaroo",
+      "displayName": "Kangaroo",
+      "password": "Kangaroo123",
+      "score": 6,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775560.png"
+    },
+    {
+      "id": 16,
+      "username": "Beaver",
+      "displayName": "Beaver",
+      "password": "Beaver123",
+      "score": 55,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940434.png"
+    },
+    {
+      "id": 17,
+      "username": "Duck",
+      "displayName": "Duck",
+      "password": "Duck123",
+      "score": 22,
+      "image": "https://cdn-icons-png.flaticon.com/512/414/414696.png"
+    },
+    {
+      "id": 18,
+      "username": "Raccoon",
+      "displayName": "Raccoon",
+      "password": "Raccoon123",
+      "score": 50,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775548.png"
+    },
+    {
+      "id": 19,
+      "username": "Shark",
+      "displayName": "Shark",
+      "password": "Shark123",
+      "score": 80,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775729.png"
+    },
+    {
+      "id": 20,
+      "username": "Bat",
+      "displayName": "Bat",
+      "password": "Bat123",
+      "score": 69,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940409.png"
+    },
+    {
+      "id": 21,
+      "username": "Ladybug",
+      "displayName": "Ladybug",
+      "password": "Ladybug123",
+      "score": 90,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775653.png"
+    },
+    {
+      "id": 22,
+      "username": "Monkey",
+      "displayName": "Monkey",
+      "password": "Monkey123",
+      "score": 76,
+      "image": "https://cdn-icons-png.flaticon.com/512/4805/4805871.png"
+    },
+    {
+      "id": 23,
+      "username": "Hedgehog",
+      "displayName": "Hedgehog",
+      "password": "Hedgehog123",
+      "score": 42,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940423.png"
+    },
+    {
+      "id": 24,
+      "username": "Goat",
+      "displayName": "Goat",
+      "password": "Goat123",
+      "score": 49,
+      "image": "https://cdn-icons-png.flaticon.com/512/414/414679.png"
+    },
+    {
+      "id": 25,
+      "username": "Pig",
+      "displayName": "Pig",
+      "password": "Pig123",
+      "score": 28,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775529.png"
+    },
+    {
+      "id": 26,
+      "username": "Turtle",
+      "displayName": "Turtle",
+      "password": "Turtle123",
+      "score": 49,
+      "image": "https://cdn-icons-png.flaticon.com/512/9708/9708789.png"
+    },
+    {
+      "id": 27,
+      "username": "Octopus",
+      "displayName": "Octopus",
+      "password": "Octopus123",
+      "score": 1,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940449.png"
+    },
+    {
+      "id": 28,
+      "username": "Fox",
+      "displayName": "Fox",
+      "password": "Fox123",
+      "score": 12,
+      "image": "https://cdn-icons-png.flaticon.com/512/4775/4775692.png"
+    },
+    {
+      "id": 29,
+      "username": "Parrot",
+      "displayName": "Parrot",
+      "password": "Parrot123",
+      "score": 78,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940400.png"
+    },
+    {
+      "id": 30,
+      "username": "Tiger",
+      "displayName": "Tiger",
+      "password": "Tiger123",
+      "score": 40,
+      "image": "https://cdn-icons-png.flaticon.com/512/3558/3558255.png"
+    },
+    {
+      "id": 31,
+      "username": "Deer",
+      "displayName": "Deer",
+      "password": "Deer123",
+      "score": 63,
+      "image": "https://cdn-icons-png.flaticon.com/512/9049/9049760.png"
+    },
+    {
+      "id": 32,
+      "username": "Giraffe",
+      "displayName": "Giraffe",
+      "password": "Giraffe123",
+      "score": 24,
+      "image": "https://cdn-icons-png.flaticon.com/512/1810/1810917.png"
+    },
+    {
+      "id": 33,
+      "username": "Elephant",
+      "displayName": "Elephant",
+      "password": "Elephant123",
+      "score": 84,
+      "image": "https://cdn-icons-png.flaticon.com/512/9675/9675824.png"
+    },
+    {
+      "id": 34,
+      "username": "Weasel",
+      "displayName": "Weasel",
+      "password": "Weasel123",
+      "score": 4,
+      "image": "https://cdn-icons-png.flaticon.com/512/1326/1326388.png"
+    },
+    {
+      "id": 35,
+      "username": "Meerkat",
+      "displayName": "Meerkat",
+      "password": "Meerkat123",
+      "score": 77,
+      "image": "https://cdn-icons-png.flaticon.com/512/1326/1326390.png"
+    },
+    {
+      "id": 36,
+      "username": "Mouse",
+      "displayName": "Mouse",
+      "password": "Mouse123",
+      "score": 60,
+      "image": "https://cdn-icons-png.flaticon.com/512/3558/3558257.png"
+    },
+    {
+      "id": 37,
+      "username": "Ostrich",
+      "displayName": "Ostrich",
+      "password": "Ostrich123",
+      "score": 88,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940430.png"
+    },
+    {
+      "id": 38,
+      "username": "Chameleon",
+      "displayName": "Chameleon",
+      "password": "Chameleon123",
+      "score": 8,
+      "image": "https://cdn-icons-png.flaticon.com/512/3940/3940427.png"
+    }
+  ]
+}
